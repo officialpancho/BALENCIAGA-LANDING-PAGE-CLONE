@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BALENCIAGA-LANDING-PAGE-CLONE/static/css/main.9d34da6c.chunk.css",
+    "main.js": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/main.a1eb79b5.chunk.js",
+    "main.js.map": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/main.a1eb79b5.chunk.js.map",
+    "runtime-main.js": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/runtime-main.c7361998.js",
+    "runtime-main.js.map": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/runtime-main.c7361998.js.map",
+    "static/css/2.6ba93773.chunk.css": "/BALENCIAGA-LANDING-PAGE-CLONE/static/css/2.6ba93773.chunk.css",
+    "static/js/2.9ca7a0b0.chunk.js": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/2.9ca7a0b0.chunk.js",
+    "static/js/2.9ca7a0b0.chunk.js.map": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/2.9ca7a0b0.chunk.js.map",
+    "index.html": "/BALENCIAGA-LANDING-PAGE-CLONE/index.html",
+    "static/css/2.6ba93773.chunk.css.map": "/BALENCIAGA-LANDING-PAGE-CLONE/static/css/2.6ba93773.chunk.css.map",
+    "static/css/main.9d34da6c.chunk.css.map": "/BALENCIAGA-LANDING-PAGE-CLONE/static/css/main.9d34da6c.chunk.css.map",
+    "static/js/2.9ca7a0b0.chunk.js.LICENSE.txt": "/BALENCIAGA-LANDING-PAGE-CLONE/static/js/2.9ca7a0b0.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/BALENCIAGA-LANDING-PAGE-CLONE/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7361998.js",
+    "static/css/2.6ba93773.chunk.css",
+    "static/js/2.9ca7a0b0.chunk.js",
+    "static/css/main.9d34da6c.chunk.css",
+    "static/js/main.a1eb79b5.chunk.js"
+  ]
+}
